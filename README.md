@@ -38,3 +38,6 @@ How to Run
    {
      "api_key": "your_api_key_here"
    }
+3. Run main.py
+4. Enter a number appropriate to the list provided in the terminal ( 1 - 5 )
+5. Read information provided
