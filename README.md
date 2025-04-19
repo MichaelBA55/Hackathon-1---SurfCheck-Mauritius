@@ -32,12 +32,15 @@ Coastal regions/Beaches Included
 
 How to Run
 
+##All files must be in the same folder##
+
 1. Download the repository content
 2. Add your OpenWeatherMap API key to `config.json`:
    ```json
    {
      "api_key": "your_api_key_here"
    }
-3. Run main.py
-4. Enter a number appropriate to the list provided in the terminal ( 1 - 5 )
-5. Read information provided
+3. Install dependencies, 'pip install requests' in the terminal
+4. Run main.py
+5. Enter a number appropriate to the list provided in the terminal ( 1 - 5 )
+6. Read information provided
